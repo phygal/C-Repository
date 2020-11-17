@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCAirways" Database="" Version="10.0.0">
+  <Project Name="UOCAirways" Path="UOCAirways.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Test" Selected="yes">
+      <Environment/>
+      <Project Name="UOCAirways" ConfigName="Test"/>
+      <Project Name="UOCAirways" ConfigName="Test"/>
+      <Project Name="UOCAirways" ConfigName="Test"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Menu" Selected="no">
+      <Environment/>
+      <Project Name="UOCAirways" ConfigName="Menu"/>
+      <Project Name="UOCAirways" ConfigName="Menu"/>
+      <Project Name="UOCAirways" ConfigName="Menu"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
